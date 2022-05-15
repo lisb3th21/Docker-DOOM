@@ -72,3 +72,10 @@ Ahora abrimos Remmina e indicamos que usaremos el servicio  VNC con `localhost:5
 Nos aparecera una ventana con el juego, esto significará que hemos hecho todo correctamente. 
 
 ![pasos correctos](img/correcto.png)
+
+
+### Referencias
+
+[Repositorio dockerdoomd](https://github.com/GideonRed/dockerdoomd)
+
+[Remmina](https://remmina.org/)

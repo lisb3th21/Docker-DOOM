@@ -21,3 +21,5 @@ run     cd /dockerdoom/trunk && ./configure && make && make install
 
 # Autostart psdoom
 run     bash -c 'echo "/usr/local/games/psdoom -warp E1M1" >> /root/.bashrc'
+
+
